@@ -9,6 +9,6 @@
 
 *Please write your ideas here in the following format*
 
-- [] `Peti` MOBA (wasd/mouse not decided)
-- [] `Boti` Top down shooter, multi, arena
-- [] `Boti` FPS **Advanced so this would be a big project (should start with something else)**
+- [ ] `Peti` MOBA (wasd/mouse not decided)
+- [ ] `Boti` Top down shooter, multi, arena
+- [ ] `Boti` FPS **Advanced so this would be a big project (should start with something else)**
